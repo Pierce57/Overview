@@ -4,7 +4,7 @@
 
 ### C++
 * ECE 309 - Data Structures and Object-Oriented Programming
-  * <b> Monopoly – Board Game Design / Development </b>
+  * <b> Board Game Design / Development - Monopoly </b>
     * Implemented a virtual Monopoly Board Game for up to 8 players using C++ in a team of four students. All rules and aspects of the game were simulated, and bot players were programmed to allow for solo play.
     * My role was to design the overall software architecture of the program (data structures, classes, header files, etc.), as well as the Bank and Bot 
       Player classes. Additionally, I developed high level logic for other aspects of the program like main, conducted comprehensive debug/code review sessions of the entire program, and managed/performed program-wide documentation.
