@@ -17,7 +17,7 @@
   * <b> Project 1: Cache and Memory Hierarchy Simulator </b>
     * Implement a flexible cache and memory hierarchy simulator and use it to compare the performance, area, and energy of different memory hierarchy configurations, using a subset of the SPEC 2006 benchmark suite, SPEC 2017 benchmark suite, and/or microbenchmarks.
   * <b> Project 2: Branch Predictor Simulator </b>
-    * Implement a branch predictor simulator and use it to evaluate different configurations of branch predictors (e.g. bimodal, gshare, and hybrid)
+    * Implement a branch predictor simulator and use it to evaluate different configurations of branch predictors (e.g. bimodal, gshare, and hybrid).
   * <b> Project 3: Superscalar Pipeline Simulator </b>
     * Implement a simulator for an out-of-order superscalar processor that fetches and issues N instructions per cycle. Only the dynamic scheduling mechanism will be modeled in detail, i.e., perfect caches and perfect branch prediction are assumed.
 * ECE 566 - Compiler Optimization and Scheduling
@@ -29,7 +29,7 @@
     * Practice code generation with LLVM and gain experience using the LLVM software infrastructure.
   * <b> Project 2: Common Subexpression Elimination Plus Simple Load/Store Optimization </b>
     * Implement code that performs Common Subexpression Elimination.
-    * Leverage LLVM to perform simple instruction simplification and dead code elimiation.
+    * Leverage LLVM to perform simple instruction simplification and dead code elimination.
     * Perform a simple load-store optimization during the CSE traversal to find additional redundancy while preserving the order of memory operations.
   * <b> Project 3: Function Inlining Heuristics </b>
     * Implement a function inlining heuristic.
@@ -65,16 +65,16 @@
     * Build a program that reads information about a golf tournament and allows a user to view information about the course, the overall scores, and the individual players.
 * ECE 306 - Introduction to Embedded Systems
     * <b> RC Car </b>
-      * Build a custom RC Car using the MSP430 platform that can receieve commands over a WI-FI connection and traverse a series of obstacle courses.
+      * Build a custom RC Car using the MSP430 platform that can receive commands over a WI-FI connection and traverse a series of obstacle courses.
 ### VHDL
 * ECE 310 - Design of Complex Digital Systems
   * <b> Simple CPU </b>
-    * Complete a design involving separate control and datapth with multiple modules
-    * Complete a design that includes most of the elements to be used in the CPU
+    * Complete a design involving separate control and datapath with multiple modules.
+    * Complete a design that includes most of the elements to be used in the CPU.
 ### HTML / CSS
 * E 115 – Introduction to Computing Environments
   * <b> Personal Website </b>
-    * Make a webpage about yourself that addresses who you are and what you hope to do at NC State
+    * Make a webpage about yourself that addresses who you are and what you hope to do at NC State.
 ### Java
 * AP Computer Science Principles
 * ECE 492 - Object-Oriented Application Programming with Java
