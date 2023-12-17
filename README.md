@@ -16,15 +16,15 @@
     * Created a 4-processor system simulator that implements and compares two different coherence protocol optimizations - Modified MSI and Dragon Protocol.
 * ECE 563 - Microprocessor Architecture
   * <b> Project 1: Cache and Memory Hierarchy Simulator </b>
-    * Implemented a flexible cache and memory hierarchy simulator and use it to compare the performance, area, and energy of different memory hierarchy configurations, using a subset of the SPEC 2006 benchmark suite, SPEC 2017 benchmark suite, and/or microbenchmarks.
+    * Implemented a flexible cache and memory hierarchy simulator and used it to compare the performance, area, and energy of different memory hierarchy configurations, using a subset of the SPEC 2006 benchmark suite, SPEC 2017 benchmark suite, and/or microbenchmarks.
   * <b> Project 2: Branch Predictor Simulator </b>
-    * Implemented a branch predictor simulator and use it to evaluate different configurations of branch predictors (e.g. bimodal, gshare, and hybrid).
+    * Implemented a branch predictor simulator and used it to evaluate different configurations of branch predictors (e.g. bimodal, gshare, and hybrid).
   * <b> Project 3: Superscalar Pipeline Simulator </b>
-    * Implemented a simulator for an out-of-order superscalar processor that fetches and issues N instructions per cycle. Only the dynamic scheduling mechanism will be modeled in detail, i.e., perfect caches and perfect branch prediction are assumed.
+    * Implemented a simulator for an out-of-order superscalar processor that fetches and issues N instructions per cycle. Only the dynamic scheduling mechanism was modeled in detail, i.e., perfect caches and perfect branch prediction are assumed.
 * ECE 566 - Compiler Optimization and Scheduling
   * <b> Project 1: The Matrix </b>
     * Implemented an LLVM bitcode generator for a simple programming language.
-      * Should support floating point and basic matrix operations.
+      * Supports floating point and basic matrix operations.
     * Gained experience reading and interpreting a language specification.
     * Gained experience implementing a simple programming language using parser generators: Flex & Bison.
     * Practiced code generation with LLVM and gain experience using the LLVM software infrastructure.
@@ -59,7 +59,7 @@
 ### C
 * ECE 209 - Computer Systems Programming
   * <b> Project 1: Roots </b>
-    * Built a program that will compute the n-th root of an integer to a certain number of decimal digits using the sliding-digit algorithm.
+    * Built a program that computes the n-th root of an integer to a certain number of decimal digits using the sliding-digit algorithm.
   * <b> Project 2: Farkle </b>
     * Built a program that allows multiple users to play a dice game named Farkle.
   * <b> Project 3: Golf </b>
@@ -75,7 +75,7 @@
 ### HTML / CSS
 * E 115 – Introduction to Computing Environments
   * <b> Personal Website </b>
-    * Made a webpage about yourself that addresses who you are and what you hope to do at NC State.
+    * Made a webpage about myself that details who I am and what I hope to do at NC State.
 ### Java
 * AP Computer Science Principles
 * ECE 492 - Object-Oriented Application Programming with Java
