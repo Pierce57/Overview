@@ -36,11 +36,41 @@
     * Design your own heuristic and report the results.
 ### Java / Python / HTML
 * ECE 484 - Senior Design I
+  * <b> [Lively Locking Solutions](https://sites.google.com/ncsu.edu/ece-sd-project-pages-fall-23/project-53-lively-locking-solutions?authuser=0) </b>
+    * My team of four engineers and I aim to create a system that controls and monitors storage units remotely at an affordable price.
+    * Currently, we have divided this effort into six subsystems:
+      * Locking System
+      * Power
+      * Camera System
+      * 2FA
+      * Management Software
+      * Networking / Communications
+    * My roles are:
+      * Team Leader
+      * Management Software Subsystem Lead
+        * The Management Software subsystem aims to fill the remote requirement of this project. It encompasses a website that can be used by management (at storage facilities) to remotely monitor and control their storage units.
+        * During the Fall 2023 semester, I was able to get a working prototype of this website, using Java, HTML, CSS, Spring MVC, Thymeleaf, and MySQL. Most notably, I was able to implement CRUD features, write a Python script to integrate the Camera System fulfilling the unit physical status requirement, and get a mock “test” unit working. More details on 
+          the frontend/backend of this website, as well as its current features, can be found here in this [README](https://drive.google.com/file/d/1-WCKKwhsjLGRxM0DZmKxcpWUT_jx5IHf/view?usp=sharing).
+      * Networking / Communications Subsystem Lead
+        * The Networking/Communications subsystem aims to connect all of the subsequent subsystems and their devices to each other and the internet.
+        * During the Fall 2023 semester, I was able to get a working test environment using a TP-Link TL-SG108PE 8 Port Gigabit PoE Switch. The environment was used to connect and test the Locking System, Camera System, and Management Software subsystems. This allowed me to confirm their functionality and connection to one another. Additionally, this 
+          environment was fundamental in the development of the Management Software’s website prototype, as I was able to test and develop the Python script that integrates the Camera System and Management Software subsystems quickly and efficiently using this resource.
 ### C
 * ECE 209 - Computer Systems Programming
+  * <b> Project 1: Roots </b>
+    * Build a program that will compute the n-th root of an integer to a certain number of decimal digits using the sliding-digit algorithm.
+  * <b> Project 2: Farkle </b>
+    * Build a program that allows multiple users to play a dice game named Farkle.
+  * <b> Project 3: Golf </b>
+    * Build a program that reads information about a golf tournament and allows a user to view information about the course, the overall scores, and the individual players.
 * ECE 306 - Introduction to Embedded Systems
+    * <b> RC Car </b>
+      * Build a custom RC Car using the MSP430 platform that can receieve commands over a WI-FI connection and traverse a series of obstacle courses.
 ### VHDL
 * ECE 310 - Design of Complex Digital Systems
+  * <b> Simple CPU </b>
+    * Complete a design involving separate control and datapth with multiple modules
+    * Complete a design that includes most of the elements to be used in the CPU
 ### HTML / CSS
 * E 115 – Introduction to Computing Environments
   * <b> Personal Website </b>
