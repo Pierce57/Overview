@@ -66,7 +66,7 @@
     * Built a program that reads information about a golf tournament and allows a user to view information about the course, the overall scores, and the individual players.
 * ECE 306 - Introduction to Embedded Systems
     * <b> RC Car </b>
-      * Built a custom RC Car using the MSP430 platform that can receive commands over a Wi-Fi connection and traverse a series of obstacle courses.
+      * Built a custom RC Car using the TI MSP430 platform that can receive commands over a Wi-Fi connection and traverse a series of obstacle courses.
 ### VHDL
 * ECE 310 - Design of Complex Digital Systems
   * <b> Simple CPU </b>
