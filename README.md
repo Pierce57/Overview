@@ -34,7 +34,7 @@
   * <b> Project 3: Function Inlining Heuristics </b>
     * Implement a function inlining heuristic.
     * Design your own heuristic and report the results.
-### Java / Python / HTML
+### Java / Python / HTML / CSS
 * ECE 484 - Senior Design I
   * <b> [Lively Locking Solutions](https://sites.google.com/ncsu.edu/ece-sd-project-pages-fall-23/project-53-lively-locking-solutions?authuser=0) </b>
     * My team of four engineers and I aim to create a system that controls and monitors storage units remotely at an affordable price.
